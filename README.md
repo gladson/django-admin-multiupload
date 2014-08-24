@@ -1,3 +1,4 @@
+[![codeq](https://codeq.io/github/gkuhn1/django-admin-multiupload/badges/master.png)](https://codeq.io/github/gkuhn1/django-admin-multiupload/branches/master)
 django-admin-multiupload
 ========================
 
@@ -7,6 +8,12 @@ Installation
 ------------
 
 pip install git+git://github.com/gkuhn1/django-admin-multiupload.git
+
+Requeriments
+------------
+
+Django>=1.4
+
 
 Usage
 -----
